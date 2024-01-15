@@ -33,9 +33,9 @@ async def start(client, message):
                     InlineKeyboardButton('✨ Mᴏᴠɪᴇ Gʀᴏᴜᴘ ✨', url="https://t.me/+gxQ2R3VWPhphN2Rl"),
                     InlineKeyboardButton('🦋 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🦋', url='https://t.me/julie_4U')
                 ],[
-                  InlineKeyboardButton('💌 SOURCE CODE 💌', callback_data='source')
+                  InlineKeyboardButton('💌 SOURCE CODE 💌', url="https://t.me/Mr_Mintu_7")
                 ],[
-                    InlineKeyboardButton('👻 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 👻', url="https://telegram.me/newrelease1234")
+                    InlineKeyboardButton('👻 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 👻', url="https://t.me/julie_4U")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup, disable_web_page_preview=True)
@@ -52,15 +52,15 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('🔸 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔹', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💸 Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                    InlineKeyboardButton('✨ Mᴏᴠɪᴇ Gʀᴏᴜᴘ ✨', url='https://t.me/newmoviedownload1')
+                    InlineKeyboardButton('💸 Eᴀʀɴ Mᴏɴᴇʏ 💸', url="https://t.me/Mr_Mintu_7"),
+                    InlineKeyboardButton('✨ Mᴏᴠɪᴇ Gʀᴏᴜᴘ ✨', url='https://t.me/+gxQ2R3VWPhphN2Rl')
                 ],[
                     InlineKeyboardButton('⌬ Hᴇʟᴘ ⌬', callback_data='help'),
                     InlineKeyboardButton('💎 Aʙᴏᴜᴛ 💎', callback_data='about')
                 ],[
                   InlineKeyboardButton('💌 SOURCE CODE 💌', callback_data='source')
                 ],[
-                    InlineKeyboardButton('👻 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 👻', url='https://telegram.me/newrelease1234')
+                    InlineKeyboardButton('👻 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 👻', url='https://t.me/julie_4U')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgIAAxkBAAEBX4RlH6KWlmN63-NAKmqJrDfX_qB1DgACVAADQbVWDGq3-McIjQH6HgQ") 
@@ -106,15 +106,15 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('🔸 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔹', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💸 Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
+                    InlineKeyboardButton('💸 Eᴀʀɴ Mᴏɴᴇʏ 💸', url="https://t.me/Mr_Mintu_7"),
                     InlineKeyboardButton('🦋 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🦋', url=CHNL_LNK)
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ 〄', callback_data='help'),
                     InlineKeyboardButton('💎 Aʙᴏᴜᴛ 💎', callback_data='about')
                 ],[
-                  InlineKeyboardButton('💌 SOURCE CODE 💌', callback_data='source')
+                  InlineKeyboardButton('💌 SOURCE CODE 💌', url="https://t.me/Mr_Mintu_7")
                 ],[
-                    InlineKeyboardButton('👻 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 👻', url='https://telegram.me/newrelease1234')
+                    InlineKeyboardButton('👻 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 👻', url='https://t.me/julie_4U')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await message.reply_photo(
@@ -167,9 +167,9 @@ async def start(client, message):
                         [
                             [
                                 InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
-                                InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                                InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url='https://t.me/julie_4U')
                             ],[
-                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/Vikastime")
+                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/Mr_Mintu_7")
                             ],
                             [
                                 InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
@@ -189,9 +189,9 @@ async def start(client, message):
                         [
                          [
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url='https://t.me/julie_4U')
                        ],[
-                          InlineKeyboardButton("𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥", url="t.me/Vikastime")
+                          InlineKeyboardButton("𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥", url="t.me/Mr_Mintu_7")
                          ],[ 
                             InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
                             ]
