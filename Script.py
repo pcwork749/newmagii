@@ -222,10 +222,10 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 <b> Size ⚙️: {file_size}
 
-• Group - @newmoviedownload1
+• Group - @maggi_group
 
 🔰 Join For Back-up
-@newrelease1234
+@julie_4U
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</b>"""
 
     IMDB_TEMPLATE_TXT = """
