@@ -52,7 +52,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('🔸 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔹', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💸 Primium 💸', url="https://t.me/Mr_Mintu_7"),
+                    InlineKeyboardButton('💸 Primium 💸', url="https://telegra.ph/P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-01-18"),
                     InlineKeyboardButton('✨ Mᴏᴠɪᴇ Gʀᴏᴜᴘ ✨', url='https://t.me/+gxQ2R3VWPhphN2Rl')
                 ],[
                     InlineKeyboardButton('⌬ Hᴇʟᴘ ⌬', callback_data='help'),
@@ -106,7 +106,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('🔸 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔹', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💸 Primium 💸', url="https://t.me/Mr_Mintu_7"),
+                    InlineKeyboardButton('💸 Primium 💸', url="https://telegra.ph/P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-01-18"),
                     InlineKeyboardButton('🦋 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🦋', url='https://t.me/julie_4U')
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ 〄', callback_data='help'),
