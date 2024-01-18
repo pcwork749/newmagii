@@ -1464,7 +1464,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('Primium 💸', url="https://t.me/Mr_Mintu_7"),
+                    InlineKeyboardButton('Primium 💸', url="https://telegra.ph/P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-01-18"),
                     InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url="https://t.me/+gxQ2R3VWPhphN2Rl")
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -1539,7 +1539,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
              InlineKeyboardButton('ꜱʜᴀʀᴇ ᴛᴇxᴛ', callback_data='share'), 
              InlineKeyboardButton('ꜱᴏɴɢ', callback_data='song') 
          ], [
-             InlineKeyboardButton('Primium', url="https://t.me/Mr_Mintu_7"),
+             InlineKeyboardButton('Primium', url="https://telegra.ph/P%CA%80%C9%AA%E1%B4%8D%C9%AA%E1%B4%9C%E1%B4%8D-A%E1%B4%85s-F%CA%80%E1%B4%87%E1%B4%87-01-18"),
              InlineKeyboardButton('ꜱᴛɪᴄᴋᴇʀ-ɪᴅ', callback_data='sticker'),
              InlineKeyboardButton('ᴊ-ꜱᴏɴ', callback_data='json'),  
          ], [             
